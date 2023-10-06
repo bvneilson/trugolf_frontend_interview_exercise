@@ -1,10 +1,4 @@
-# E6Golf Frontend Developer Exercise
-
-## Brennan's Notes
-
-The purpose of this exercise is for the developer to exhibit familiarity with frontend technologies, programming patterns and to provide a sample of what clean and reusable code means to the candidate.
-
-Please add any comments about your decisions you have made inline, and give a summary about the architectural choices the you made and/or considered.
+# Brennan's Notes
 
 Hello Clint, Chris and TruGolf team! Thank you so very much for spending the time to interview me and get to know me. You've invested so much time and effort into my candidacy and I appreciate this developer exercise that you created. I had a lot of fun trying my best to impress you and my goal has always been to reciprocate your investment of time/resources with my best effort.
 
@@ -12,7 +6,7 @@ For this project, I tried to showcase a wide variety of strategies/competence in
 
 I tried my best to write concise, self-documenting code.
 
-I have absolutely loved what I've seen of TruGolf and the people there. I would love nothing more than to come join you and apply my full talent and efforts toward helping you build the company/products for your great customers. No matter what you decide, thank you again for your time spent with me! You are awesome and I wish you the absolute best!
+I have absolutely loved what I've seen of TruGolf and the people there. I would love nothing more than to come join you and apply my full talent and efforts toward helping you build the company/products for your great customers. I believe I would add lots of value with my attitude, work ethic, and passion for the game of golf. I think pursuing TypeScript in the future would be extremely beneficial, along with upgrading to Vue 3 and exploring possible future styling solutions for a refreshed look like (i.e.TailWindCSS) etc. No matter what you decide, thank you again for your time spent with me! You are awesome and I wish you the absolute best!
 
 Thanks,
 Brennan Neilson
