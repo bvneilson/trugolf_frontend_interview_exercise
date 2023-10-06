@@ -1,23 +1,24 @@
 <template>
   <v-app>
-   <h1>Display Results Here <em>(this can be removed)</em></h1>
+    <NineHoleView />
   </v-app>
 </template>
 
 <script>
+import NineHoleView from "./views/NineHoleView.vue";
 export default {
   data() {
     return {
       shotData: {},
-      shots: []
-    }
+      shots: [],
+    };
   },
-
-  mounted () {
+  mounted() {
     //* Sample Vuex call to get shot data.
     //* You can alter this as well if you see a better way to handle this action.
-    // this.$store.dispatch('shots/allShots');
+    this.$store.dispatch("shots/allShots");
   },
+  components: { NineHoleView },
 };
 </script>
 
